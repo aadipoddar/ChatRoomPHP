@@ -24,6 +24,7 @@ else if(!ctype_alpha($room))
 }
 
 else
+{
     //Connecting Database
     include 'db_connect.php';
 }
